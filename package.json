@@ -31,9 +31,9 @@
   "devDependencies": {
     "chai": "^4.3.4",
     "local-web-server": "^5.1.1",
-    "mocha": "^9.1.1",
+    "mocha": "^10.6.0",
     "rollup": "^2.56.3",
     "rollup-plugin-babel-minify": "^10.0.0",
-    "sinon": "^11.1.2"
+    "sinon": "^16.1.2"
   }
 }
